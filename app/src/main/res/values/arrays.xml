@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transaction_types">
+        <item>Budget</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="budget_categories">
+        <item>Salaries</item>
+        <item>Invest</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Food/Drink</item>
+        <item>Entertainment</item>
+        <item>Transportation</item>
+        <item>Other</item>
+    </string-array>
+</resources>
